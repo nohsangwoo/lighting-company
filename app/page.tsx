@@ -108,7 +108,7 @@ export default function Home() {
               <div className="flex items-center justify-center">
                 <div className="relative aspect-video overflow-hidden rounded-xl">
                   <Image
-                    src="/placeholder.svg?height=720&width=1280"
+                    src="/1.webp"
                     width={1280}
                     height={720}
                     alt="스마트 조명 제어 시스템"
@@ -366,7 +366,7 @@ export default function Home() {
               <div className="group relative overflow-hidden rounded-lg border bg-background shadow-sm transition-all hover:shadow-md">
                 <div className="aspect-video overflow-hidden">
                   <Image
-                    src="/placeholder.svg?height=400&width=600"
+                    src="/2.webp"
                     width={600}
                     height={400}
                     alt="스마트 컨트롤러"
@@ -387,7 +387,7 @@ export default function Home() {
               <div className="group relative overflow-hidden rounded-lg border bg-background shadow-sm transition-all hover:shadow-md">
                 <div className="aspect-video overflow-hidden">
                   <Image
-                    src="/placeholder.svg?height=400&width=600"
+                    src="/3.webp"
                     width={600}
                     height={400}
                     alt="센서 네트워크"
@@ -408,7 +408,7 @@ export default function Home() {
               <div className="group relative overflow-hidden rounded-lg border bg-background shadow-sm transition-all hover:shadow-md">
                 <div className="aspect-video overflow-hidden">
                   <Image
-                    src="/placeholder.svg?height=400&width=600"
+                    src="/4.webp"
                     width={600}
                     height={400}
                     alt="통합 관리 시스템"
